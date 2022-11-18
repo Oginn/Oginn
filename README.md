@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Oginn
+- 👋 Hi, I’m Oginni Adeniyi Matthew
+- ________________________________________________________________________
 - 👀 I’m interested in data analyst, Fullstack development, graphics work
 - 🌱 I’m currently improving my statistics knowledge
 - 💞️ I’m looking to collaborate on any good role
