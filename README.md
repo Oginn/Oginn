@@ -1,4 +1,4 @@
-- 👋 Hi, I’m # Oginni Adeniyi Matthew
+- 👋 Hi, I’m <h1> Oginni Adeniyi Matthew
 - ________________________________________________________________________
 - 👀 I’m interested in data analyst, Fullstack development, graphics work
 - 🌱 I’m currently improving my statistics knowledge
