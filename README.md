@@ -1,9 +1,10 @@
 - 👋 Hi, I’m <h1> Adeniyi J
 - ________________________________________________________________________
+- 
 - 👀 I’m interested in data analyst, Fullstack development, graphics work
 - 🌱 I’m currently improving my statistics knowledge
 - 💞️ I’m looking to collaborate on any good role
-- 📫 How to reach me on +2438065209613
+- 📫 How to reach me on
 - oginniadeniyi@gmail.com
 
 <!---
